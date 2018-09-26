@@ -1,0 +1,5 @@
+/*using structural psuedo classes*/
+/*using "first-of-type" psuedo class which selects the element from the beginning*/
+ul li:nth-of-type(3){
+    background:blue;
+}
